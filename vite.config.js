@@ -9,5 +9,5 @@ export default defineConfig({
       {find:'@',replacement:'/src'}
     ]
   },
-  base: '/actions-test'
+  base: '/actions-test/'
 })
